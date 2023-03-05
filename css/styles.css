@@ -1,0 +1,11 @@
+div {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh; /* Establece la altura del div al 100% del alto de la pantalla */
+  }
+  
+  h1 {
+    text-align: center; /* Centra el texto del h1 horizontalmente */
+  }
+  
